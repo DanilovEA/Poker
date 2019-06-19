@@ -35,3 +35,4 @@ kwargs = {"arg3": 3, "arg2": "two", "arg1": 5}
 test_args_kwargs(**kwargs)
 
 print test_args_kwargs.__name__
+print ("Add new row for test git")
